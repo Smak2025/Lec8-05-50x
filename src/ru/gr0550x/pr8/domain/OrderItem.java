@@ -1,4 +1,4 @@
-package ru.gr0550x.lec8.domain;
+package ru.gr0550x.pr8.domain;
 
 public record OrderItem(
         String product,

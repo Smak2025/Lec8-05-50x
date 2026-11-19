@@ -1,6 +1,6 @@
-import ru.gr0550x.lec8.data.SampleData;
-import ru.gr0550x.lec8.domain.Order;
-import ru.gr0550x.lec8.domain.OrderStatus;
+import ru.gr0550x.pr8.data.SampleData;
+import ru.gr0550x.pr8.domain.Order;
+import ru.gr0550x.pr8.domain.OrderStatus;
 
 void main() {
     var students = SampleData.students();

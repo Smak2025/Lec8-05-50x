@@ -1,8 +1,8 @@
-package ru.gr0550x.lec8.analytics;
+package ru.gr0550x.pr8.analytics;
 
-import ru.gr0550x.lec8.domain.Order;
-import ru.gr0550x.lec8.domain.OrderItem;
-import ru.gr0550x.lec8.domain.Student;
+import ru.gr0550x.pr8.domain.Order;
+import ru.gr0550x.pr8.domain.OrderItem;
+import ru.gr0550x.pr8.domain.Student;
 
 import java.util.List;
 
