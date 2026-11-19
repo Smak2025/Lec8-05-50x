@@ -13,6 +13,7 @@ public record Order(
     }
 
     public int total(){
+        // TODO: Переделать в поток
         int sum = 0;
         for (var item: items){
             sum += item.total();

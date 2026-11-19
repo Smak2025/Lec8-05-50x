@@ -3,9 +3,9 @@ package ru.gr0550x.pr8.domain;
 public record OrderItem(
         String product,
         int quantity,
-        int price
+        int priceRub
 ) {
     public int total(){
-        return quantity * price;
+        return quantity * priceRub;
     }
 }
