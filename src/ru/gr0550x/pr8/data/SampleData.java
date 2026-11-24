@@ -32,6 +32,10 @@ public final class SampleData {
                     new OrderItem("Калькулятор", 1, 2500),
                     new OrderItem("Бумага A4", 2, 400)
             ), OrderStatus.SHIPPED),
+            new Order(107, ZHANNA, List.of(
+                    new OrderItem("Калькулятор", 1, 2500),
+                    new OrderItem("Бумага A4", 2, 400)
+            ), OrderStatus.SHIPPED),
             new Order(104, VERA, List.of(
                     new OrderItem("Папка", 4, 120),
                     new OrderItem("Ручка", 2, 50)
